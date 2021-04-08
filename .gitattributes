@@ -3,7 +3,5 @@
 
 *.cs text diff=csharp
 
-* linguist-vendored
-*.cs linguist-vendored=false
 *.shader linguist-detectable=false
 *.cginc linguist-detectable=false
